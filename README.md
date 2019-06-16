@@ -1,4 +1,4 @@
-# Speciale Chitarra - per Commodore Amiga
+# Speciale Chitarra (1993) - per Commodore Amiga
 
 ## Struttura del repository
 - **source** - Codice sorgente in HiSoft BASIC per Amiga
