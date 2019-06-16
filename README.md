@@ -8,3 +8,6 @@
   - [**GIRI.TXT**](https://github.com/sblendorio/chitarramiga/blob/master/source/GIRI.TXT) - Definizione dei giri armonici sotto forma di CSV
 - **dist** - Distribuzione sotto forma di immagine di floppy disk per Amiga
   - [**SpecialeChitarra.adf**](https://github.com/sblendorio/chitarramiga/blob/master/dist/SpecialeChitarra.adf) - Disco *bootable* per Amiga comprendente sorgente e binari.
+
+## Screenshots
+![workbench](screenshot1.png) ![program](screenshot2.png)
